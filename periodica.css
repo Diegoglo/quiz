@@ -1,0 +1,112 @@
+div{
+    width: 100px;
+    height: 100px; 
+    border: dashed black 1px; 
+    text-align: center;
+    border-radius:10px ;
+}
+td{
+    border: 1px solid negro;
+}
+.CN{
+    background-color: #2A7875;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 160px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    top:30px;
+}
+
+.InvIng{
+    background-color: #3B78B3;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:180px;
+    top:-70px;
+}
+
+.Paleo{
+    background-color: #7BD0BC;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:390px;
+    top:-172px;
+}
+
+.Mat{
+    background-color: #9900cc;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:600px;
+    top:-272px;
+}
+
+.Astro{
+    background-color: #ff4d4d;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:810px;
+    top:-375px;
+}
+.Fisicas{
+    background-color: #ff944d;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:1020px;
+    top:-478px;
+}
+.Quimi{
+    background-color: #ffff66;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:1230px;
+    top:-581px;
+}
+.Bio{
+    background-color:#669900;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 290px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:1020px;
+    top:-800px;
+}
+.Prima{
+    background-color: #80e5ff;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 190px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    left:1020px;
+    top:-1020px;
+}
